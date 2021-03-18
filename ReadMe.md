@@ -15,7 +15,7 @@ base240() returns). DIGITS are the same as decimal or binary or hexagesimal digi
 ... and it will return the list:
 [[1],[(symbol for 120),1]]
 
-##Why 240
+## Why 240?
 You might be thinking I pulled 240 directly out of my ass. And although I do love pulling numbers out of my ass, I actually have a reason for 
 this base. 240 is a highly composite number, and as such, it is great for dividing! This video got me thinking about it: [Video on English coinage](https://www.youtube.com/watch?v=R2paSGQRwvo). Also, this video [Video on number systems](https://www.youtube.com/watch?v=l4bmZ1gRqCc&t=343s), and 
 this one [Video on cuneiform numbers](https://www.youtube.com/watch?v=RR3zzQP3bII), and this one: [Video on base 12](https://www.youtube.com/watch?v=U6xJfP7-HCc) got me thinking on number systems in general. For most of humanity, most people were illiterate. Did they really think of numbers in a decimal way? Shure, we get it beating into us because that's how we write numbers, but how about people who didn't write their numbers. They still had to buy and sell things, they still had to do everyday maths. How did they manage it? My suspicion, is that this system of 240 helped, and it might not have meant anything to them that it wasn't a round number. My program here is a very lazy attempt to capture how their heads might have processed maths. 

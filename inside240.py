@@ -5,7 +5,7 @@ Created on Wed Mar 17 15:28:36 2021
 @author: Usuario
 """
 
-def inside240(x):
+def inside240(x,Printing):
     digits=[]
     if x==0:
         digits.append('0')
@@ -33,8 +33,9 @@ def inside240(x):
             digits.append(str(x))
         elif x > 0:
             digits.append(chr(x + 55))
-    values = " ".join(f"{v}" for v in digits)
-    print(values)            
+    if Printing==True:
+        values = " ".join(f"{v}" for v in digits)
+        print(values)            
     return digits
  
     

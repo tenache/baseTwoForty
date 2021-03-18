@@ -21,3 +21,5 @@ this base. 240 is a highly composite number, and as such, it is great for dividi
 this one [Video on cuneiform numbers](https://www.youtube.com/watch?v=RR3zzQP3bII), and this one: [Video on base 12](https://www.youtube.com/watch?v=U6xJfP7-HCc) got me thinking on number systems in general. For most of humanity, most people were illiterate. Did they really think of numbers in a decimal way? Shure, we get it beating into us because that's how we write numbers, but how about people who didn't write their numbers. They still had to buy and sell things, they still had to do everyday maths. How did they manage it? My suspicion, is that this system of 240 helped, and it might not have meant anything to them that it wasn't a round number. My program here is a very lazy attempt to capture how their heads might have processed maths. 
 Or, it's just another side project helping me learn how to code, whatever. 
 
+##Colaboration
+Please, if you kind of liked the idea, run with it. Frankly, I'm a newby at coding, so you could probably find more elegant ways to do the same thing. Honestly, I don't think it's useful, but it might be fun. 
